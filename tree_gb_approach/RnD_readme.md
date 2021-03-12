@@ -1,0 +1,3 @@
+# R&D
+
+Our approach was to try using Gradient Boosting Trees and feature selection...
